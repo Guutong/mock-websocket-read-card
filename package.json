@@ -1,0 +1,15 @@
+{
+  "name": "mock-websocket-read-card",
+  "version": "1.0.0",
+  "description": "mock",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "guutong",
+  "license": "ISC",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "ws": "^5.1.1"
+  }
+}
